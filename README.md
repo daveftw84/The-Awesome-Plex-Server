@@ -55,6 +55,7 @@ Build an operational-automated server that mounts your Google Drive, while utili
 
 *Install GIT*
 ```sh
+sudo apt-get update
 sudo apt-get install git
 ```
 
